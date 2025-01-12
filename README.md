@@ -9,7 +9,7 @@ This project is designed to scrape product information from Amazon using a Pytho
 - **Backend Script**: A Python-based scraper that extracts product information from Amazon.
 - **Frontend Application**: A React application that displays products in a table format, enabling easy viewing and interaction with the scraped data.
 
-### Backend Features
+### Backend  Script Features
 
 - Scrape product details such as title, price, rating, number of reviews, and image URLs.
 - Store data in JSON format for easy retrieval by the frontend application.
@@ -31,9 +31,9 @@ This project is designed to scrape product information from Amazon using a Pytho
 
 ### Setup and Installation
 
-#### Backend Setup
+#### Backend Script Setup
 
-1. **Clone the repository**: git clone https://yourrepository.com/project.git
+1. **Clone the repository**: git clone https://github.com/tahirch0udhary/Amazon-Scraper.git
 2. **Navigate to the backend directory**: cd script
 3. **Set up a Python virtual environment**:
 ```bash
