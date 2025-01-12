@@ -52,7 +52,7 @@ playwright install
 After this resulting json files will goes to frontend public folder
 
 #### Frontend Setup
-1. **Navigate to the frontend directory**: cd frontend/scraper-frontend
+1. **Navigate to the frontend directory**: cd frontend
 2. **Install required packages**: npm install
 3. **Start the application**: npm run dev
 4. **Open the application in your browser**
