@@ -48,7 +48,7 @@ pip install beautifulsoup4
 pip install playwright
 playwright install
 ```
-5. **Run the scraper**: python script.py
+5. **Run the scraper**: python main.py
 After this resulting json files will goes to frontend public folder
 
 #### Frontend Setup

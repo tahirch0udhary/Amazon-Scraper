@@ -15,7 +15,7 @@ def scrape_amazon(queries: list):
         for query in queries:
             all_products = []
             print(f"\nstarting scrape for query: '{query}'")
-            for page in range(1, 2):  # scrape the first 20 pages
+            for page in range(1, 21):  # scrape the first 20 pages
                 print(f"scraping page {page} for query '{query}'")
                 html_content = scraper.fetch_page(query, page)
                 if html_content:
